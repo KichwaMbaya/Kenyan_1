@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "902768679152",
+    "project_id": "kenyan1",
+    "storage_bucket": "kenyan1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902768679152:android:a3b63fcd02b95ddffaca35",
+        "android_client_info": {
+          "package_name": "com.justkeepfaith.baugettematc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902768679152-64apm5scvtei0mbnap9tf1ka81ar93v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgw6KbrHIx9lzvaaoK4pHvh_m_9Vv3X0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902768679152-64apm5scvtei0mbnap9tf1ka81ar93v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902768679152:android:de3dbe87bc91f40bfaca35",
+        "android_client_info": {
+          "package_name": "com.justkeepfaith.haitamblein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902768679152-64apm5scvtei0mbnap9tf1ka81ar93v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgw6KbrHIx9lzvaaoK4pHvh_m_9Vv3X0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902768679152-64apm5scvtei0mbnap9tf1ka81ar93v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
